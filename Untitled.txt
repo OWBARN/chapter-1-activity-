@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Web Page Activity 1</title>
+<meta http-equiv="Content-Type" content="text/htnl; charset=UTF-8">
+</head>
+<body>
+<h1>The World Wibe Web</h1>
+<p> With a web browser, one can view web pages that may contain text, images, video, andd other multimedia and navigate between them by using hyperlink.</p>
+<p>There are many different types of web sites, including: </P>
+<ul> 
+<li>Social networking</li>
+<li>Publishging</li>
+<li>Wikis</li>
+<li>Shopping and catalog</li>
+<li>Search portal</li>
+</ul>
+<!--Web page activity #1 by Olivia Barnett
+</body>
+</html>
