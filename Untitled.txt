@@ -15,6 +15,6 @@
 <li>Shopping and catalog</li>
 <li>Search portal</li>
 </ul>
-<!--Web page activity #1 by Olivia Barnett
+<!--Web page activity #1 by Your Name -->
 </body>
 </html>
